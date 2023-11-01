@@ -1,0 +1,15 @@
+{
+  "name": "e-duca-mailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "expres": "^0.0.5",
+    "express": "^4.18.2",
+    "nodemailer": "^6.8.0"
+  },
+  "scripts": {
+    "start": "node src"
+  }
+}
